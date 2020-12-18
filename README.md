@@ -1,2 +1,2 @@
 # spice-queen
-Github repo &amp; gh-pages for spice queen website
+Github repo + gh-pages for spice queen website
